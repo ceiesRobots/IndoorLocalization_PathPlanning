@@ -52,9 +52,9 @@ o	Define the robot as a class with its own attributes and functions.
 o	Find camera matrix, new camera matrix, dist vector, and roi vector for calibrate the camera.
 
 ## The Team
-Abdullah AbdulRahim Qusaier : abdullahqusaier@gmail.com 
-Ibrahim Waleed Alfaris: ialfa499@gmail.com  
-Osamah Mohammed BaDughaish: osamah.badghaish@gmail.com 
+Abdullah AbdulRahim Qusaier : abdullahqusaier@gmail.com  
+Ibrahim Waleed Alfaris: ialfa499@gmail.com   
+Osamah Mohammed BaDughaish: osamah.badghaish@gmail.com  
 
 
 ## Acknowledgement
