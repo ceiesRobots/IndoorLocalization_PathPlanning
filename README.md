@@ -52,9 +52,10 @@ o	Define the robot as a class with its own attributes and functions.
 o	Find camera matrix, new camera matrix, dist vector, and roi vector for calibrate the camera.
 
 ## The Team
-Abdullah AbdulRahim Qusaier : Aqaseer0001@stu.kau.edu.sa 
-Ibrahim Waleed Alfaris: ialfaris@stu.kau.edu.sa 
-Osamah Mohammed BaDughaish: odughaish@stu.kau.edu.sa
+Abdullah AbdulRahim Qusaier : abdullahqusaier@gmail.com 
+Ibrahim Waleed Alfaris: ialfa499@gmail.com  
+Osamah Mohammed BaDughaish: osamah.badghaish@gmail.com 
+
 
 ## Acknowledgement
 The project was finished with technical and logistics help from Robotics Lab at Center Of Excellence in Intelligent Engineering Systems, KAU.   
