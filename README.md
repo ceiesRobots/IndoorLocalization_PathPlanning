@@ -61,5 +61,6 @@ Osamah Mohammed BaDughaish: osamah.badghaish@gmail.com
 The project was finished with technical and logistics help from Robotics Lab at Center Of Excellence in Intelligent Engineering Systems, KAU.   
 
 ## Project in Action  
-https://www.youtube.com/watch?v=Zt0aHOAupio
+https://www.youtube.com/watch?v=k6tndngpVVg
+
 
